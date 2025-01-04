@@ -4,5 +4,3 @@ ObjC
 kotlin
 C
 C++
-A
-B
